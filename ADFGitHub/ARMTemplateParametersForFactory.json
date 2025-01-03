@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFGitHub"
+		},
+		"AzureBlobStorageForADFGitHub_connectionString": {
+			"value": ""
 		}
 	}
 }
