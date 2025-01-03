@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitHub",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11dbe450-e545-4ca3-a8e4-3d0df2ec1035",
+		"tenantId": "a3dbbdb9-c038-49f4-b689-11226285e580"
+	}
+}
